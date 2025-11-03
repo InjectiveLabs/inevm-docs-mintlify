@@ -11,14 +11,9 @@
   "navigation": {
     "groups": [
       {
-        "group": "Home",
+        "group": "InEVM",
         "pages": [
-          "home"
-        ]
-      },
-      {
-        "group": "Bridging",
-        "pages": [
+          "index",
           "bridging"
         ]
       },
