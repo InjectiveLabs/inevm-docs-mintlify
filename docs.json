@@ -1,0 +1,52 @@
+{
+  "$schema": "https://mintlify.com/docs.json",
+  "theme": "aspen",
+  "name": "inEVM Documentation",
+  "colors": {
+    "primary": "#0D9373",
+    "light": "#55D799",
+    "dark": "#0D9373"
+  },
+  "favicon": "/files%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252Fbzj5aCK2RsFporefe1WW%252Ficon%252FA4Vi45DCwlBRBWpACRb8%252Finevm%2520logo-1.svg",
+  "navigation": {
+    "groups": [
+      {
+        "group": "Home",
+        "pages": [
+          "home"
+        ]
+      },
+      {
+        "group": "Bridging",
+        "pages": [
+          "bridging"
+        ]
+      },
+      {
+        "group": "Add inEVM to Metamask",
+        "pages": [
+          "getting-started/add-inevm-to-metamask",
+          "getting-started/receive-testnet-faucet-funds",
+          "getting-started/deploy-on-inevm",
+          "getting-started/video-tutorial"
+        ]
+      },
+      {
+        "group": "Hub",
+        "pages": [
+          "mintie-overview",
+          "external-link-1",
+          "external-link-2"
+        ]
+      },
+      {
+        "group": "Hub",
+        "pages": [
+          "mintie-overview",
+          "external-link-4",
+          "external-link-5"
+        ]
+      }
+    ]
+  }
+}
